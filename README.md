@@ -1,0 +1,1 @@
+An intelligent application for arecanut analysis and insights.
